@@ -6,6 +6,7 @@
 
 # Ideas for future testing
 Converting pictures to music
+
 https://www.reg.ru/blog/svyortka-v-deep-learning-prostymi-slovami/
 
 https://habr.com/ru/post/706168/
